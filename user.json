@@ -1,0 +1,12 @@
+{
+	"user1":{
+		"name":"Shiva","age":"10","id":3
+	},
+	"user2":{
+		"name":"Shakti","age":"20","id":5
+	},
+	"user3":{
+		"name":"Malli","age":"15","id":4
+	}
+	
+}
